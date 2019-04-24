@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\bin\Debug\Services.dll
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\bin\Debug\Services.pdb
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\obj\Debug\Services.dll
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\obj\Debug\Services.pdb
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\bin\Debug\Entities.dll
+C:\Users\user\Desktop\SEDC.PcPartsApp\Services\bin\Debug\Entities.pdb
