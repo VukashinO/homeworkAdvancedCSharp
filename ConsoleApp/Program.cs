@@ -56,7 +56,7 @@ namespace ConsoleApp
                 new Part(43, 10, 1, 0, "Logitech G213", PartType.Keyboard, "Logitech", false),
                 new Part(44, 30, 1, 0.29, "Redragon K502", PartType.Keyboard, "Redragon", false)
             };
-
+            /// 123:
             Db.Modules = new List<Module>()
             {
                 new Module(50, 700, 0.10, ModuleType.Graphics, new List<Part>()
